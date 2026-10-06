@@ -1,0 +1,125 @@
+{
+  "targetYear": 2027,
+  "sources": [
+    {
+      "id": "oxford-software",
+      "title": "University of Oxford · MSc Software Engineering",
+      "url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-software-engineering",
+      "kind": "course",
+      "type": "detail",
+      "note": "Watch for changes to the 2027 entry page. Course requirements still need individual assessment."
+    },
+    {
+      "id": "oxford-security",
+      "title": "University of Oxford · MSc Software and Systems Security",
+      "url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-software-and-systems-security",
+      "kind": "course",
+      "type": "detail",
+      "note": "Watch for changes to the 2027 entry page. Course requirements still need individual assessment."
+    },
+    {
+      "id": "oxford-advanced",
+      "title": "University of Oxford · MSc Advanced Computer Science",
+      "url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science",
+      "kind": "course",
+      "type": "detail",
+      "note": "Watch for changes to the 2027 entry page. Course requirements still need individual assessment."
+    },
+    {
+      "id": "ucl-software",
+      "title": "University College London · MSc Software Systems Engineering",
+      "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/software-systems-engineering-msc",
+      "kind": "course",
+      "type": "detail",
+      "note": "Watch for changes to the 2027 entry page. Course requirements still need individual assessment."
+    },
+    {
+      "id": "imperial-advanced",
+      "title": "Imperial College London · MSc Advanced Computing",
+      "url": "https://www.imperial.ac.uk/computing/prospective-students/courses/pg/mac/",
+      "kind": "course",
+      "type": "detail",
+      "note": "Watch for changes to the 2027 entry page. Course requirements still need individual assessment."
+    },
+    {
+      "id": "ou-software",
+      "title": "The Open University · MSc Computing · Software Engineering route",
+      "url": "https://www.open.ac.uk/postgraduate/qualifications/f66/",
+      "kind": "course",
+      "type": "detail",
+      "note": "Watch for changes to the 2027 entry page. Course requirements still need individual assessment."
+    },
+    {
+      "id": "imperial-sanctuary",
+      "title": "Imperial · Postgraduate Sanctuary",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/sanctuary/",
+      "kind": "scholarship",
+      "type": "detail",
+      "note": "Previous criteria explicitly included Humanitarian Protection and some part-time courses. Recheck all 2027/28 conditions."
+    },
+    {
+      "id": "essex-sanctuary",
+      "title": "Essex · Postgraduate Sanctuary",
+      "url": "https://www.essex.ac.uk/scholarships/university-of-sanctuary-scholarship-pg",
+      "kind": "scholarship",
+      "type": "detail",
+      "note": "The prior round included Humanitarian Protection. The official page says a 2027/28 update will follow."
+    },
+    {
+      "id": "brunel-scholarships",
+      "title": "Brunel · Scholarships directory",
+      "url": "https://www.brunel.ac.uk/scholarships/home",
+      "kind": "scholarship",
+      "type": "directory",
+      "note": "Monitor for a new Sanctuary round; verify master’s coverage, immigration and student finance rules."
+    },
+    {
+      "id": "kcl-sanctuary",
+      "title": "King’s · Funding directory",
+      "url": "https://www.kcl.ac.uk/study/funding",
+      "kind": "scholarship",
+      "type": "directory",
+      "note": "Monitor for a 2027/28 Sanctuary or Bseisu STEM round. Humanitarian Protection eligibility requires confirmation."
+    },
+    {
+      "id": "birmingham-sanctuary",
+      "title": "Birmingham · Sanctuary",
+      "url": "https://www.birmingham.ac.uk/study/scholarships-funding/sanctuary-scholarship",
+      "kind": "scholarship",
+      "type": "detail",
+      "note": "Previous criteria admitted Humanitarian Protection only where student finance was unavailable. Recheck the new round."
+    },
+    {
+      "id": "bseisu-scholarships",
+      "title": "Bseisu Foundation · Scholarships",
+      "url": "https://www.bseisufoundation.org/scholarships",
+      "kind": "scholarship",
+      "type": "directory",
+      "note": "Palestinian nationality alone is not sufficient. Residence requirements differ by scheme; confirm UK-resident eligibility."
+    },
+    {
+      "id": "displaced-directory",
+      "title": "Displaced Student Opportunities UK",
+      "url": "https://www.displacedstudent.org.uk/",
+      "kind": "scholarship",
+      "type": "directory",
+      "note": "Discovery directory for people with displacement experience. Follow the university’s original page to verify each new master’s award."
+    },
+    {
+      "id": "star-directory",
+      "title": "STAR · Scholarships directory",
+      "url": "https://star-network.org.uk/access-to-university/scholarships/",
+      "kind": "scholarship",
+      "type": "directory",
+      "note": "Discovery directory. Check each institution’s new-year master’s, residence and immigration criteria."
+    },
+    {
+      "id": "oxford-clarendon",
+      "title": "Oxford · Clarendon applicant criteria",
+      "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/clarendon/applicants",
+      "kind": "scholarship",
+      "type": "detail",
+      "note": "Automatic consideration via the linked 2027/28 course deadlines; watch for updates to the general funding policy."
+    }
+  ]
+}

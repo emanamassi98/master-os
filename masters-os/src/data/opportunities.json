@@ -1,0 +1,218 @@
+[
+  {
+    "kind": "course",
+    "amount": "See official fees; confirm your Home/Overseas fee assessment",
+    "tags": [
+      "Software engineering",
+      "Cloud",
+      "Working professionals"
+    ],
+    "verifiedAt": "2026-10-06",
+    "relatedIds": [
+      "oxford-clarendon"
+    ],
+    "eligibility": {
+      "note": "Check degree equivalence, experience, English requirements and fee status with admissions."
+    },
+    "id": "oxford-software",
+    "title": "MSc Software Engineering",
+    "university": "University of Oxford",
+    "location": "Oxford · intensive teaching weeks",
+    "mode": [
+      "Part-time"
+    ],
+    "duration": "2–4 years",
+    "cycle": "2027/28",
+    "status": "open",
+    "deadline": "2027-01-06T12:00:00Z",
+    "deadlineNote": "6 January 2027, 12:00 noon UK time",
+    "description": "Professional study in software engineering, including ten taught modules and a project. Mostly in-person teaching blocks make work leave planning important.",
+    "source": "https://www.ox.ac.uk/admissions/graduate/courses/msc-software-engineering"
+  },
+  {
+    "kind": "course",
+    "amount": "See official fees; confirm your Home/Overseas fee assessment",
+    "tags": [
+      "Security",
+      "Privacy",
+      "Systems"
+    ],
+    "verifiedAt": "2026-10-06",
+    "relatedIds": [
+      "oxford-clarendon"
+    ],
+    "eligibility": {
+      "note": "Check degree equivalence, experience, English requirements and fee status with admissions."
+    },
+    "id": "oxford-security",
+    "title": "MSc Software and Systems Security",
+    "university": "University of Oxford",
+    "location": "Oxford · intensive teaching weeks",
+    "mode": [
+      "Part-time"
+    ],
+    "duration": "2–4 years",
+    "cycle": "2027/28",
+    "status": "open",
+    "deadline": "2027-01-06T12:00:00Z",
+    "deadlineNote": "6 January 2027, 12:00 noon UK time",
+    "description": "A part-time route into secure systems, with taught modules and a project. Relevant to privacy infrastructure and secure software design.",
+    "source": "https://www.ox.ac.uk/admissions/graduate/courses/msc-software-and-systems-security"
+  },
+  {
+    "kind": "course",
+    "amount": "See official fees; confirm your Home/Overseas fee assessment",
+    "tags": [
+      "Advanced CS",
+      "Formal methods",
+      "Research"
+    ],
+    "verifiedAt": "2026-10-06",
+    "relatedIds": [
+      "oxford-clarendon"
+    ],
+    "eligibility": {
+      "note": "Check degree equivalence, experience, English requirements and fee status with admissions."
+    },
+    "id": "oxford-advanced",
+    "title": "MSc Advanced Computer Science",
+    "university": "University of Oxford",
+    "location": "Oxford",
+    "mode": [
+      "Full-time"
+    ],
+    "duration": "12 months",
+    "cycle": "2027/28",
+    "status": "open",
+    "deadline": "2027-01-06T12:00:00Z",
+    "deadlineNote": "6 January 2027, 12:00 noon UK time",
+    "description": "An advanced taught programme with a mathematical foundation, covering the specification, design and implementation of computing technologies.",
+    "source": "https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science"
+  },
+  {
+    "kind": "course",
+    "amount": "See official fees; confirm your Home/Overseas fee assessment",
+    "tags": [
+      "Software architecture",
+      "Verification",
+      "Industry project"
+    ],
+    "verifiedAt": "2026-10-06",
+    "relatedIds": [],
+    "eligibility": {
+      "note": "Check degree equivalence, experience, English requirements and fee status with admissions."
+    },
+    "id": "ucl-software",
+    "title": "MSc Software Systems Engineering",
+    "university": "University College London",
+    "location": "London · Bloomsbury",
+    "mode": [
+      "Full-time"
+    ],
+    "duration": "1 calendar year",
+    "cycle": "2027/28",
+    "status": "unknown",
+    "deadline": null,
+    "deadlineNote": "2027 application dates are not yet confirmed",
+    "description": "A September 2027 programme in software architecture, verification and development, with a research or industry project. Published fees: £21,500 UK / £44,400 international; fee status needs assessment.",
+    "source": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/software-systems-engineering-msc"
+  },
+  {
+    "kind": "course",
+    "amount": "See official fees; confirm your Home/Overseas fee assessment",
+    "tags": [
+      "Advanced CS",
+      "Research",
+      "Computing"
+    ],
+    "verifiedAt": "2026-10-06",
+    "relatedIds": [],
+    "eligibility": {
+      "note": "Check degree equivalence, experience, English requirements and fee status with admissions."
+    },
+    "id": "imperial-advanced",
+    "title": "MSc Advanced Computing",
+    "university": "Imperial College London",
+    "location": "London · South Kensington",
+    "mode": [
+      "Full-time"
+    ],
+    "duration": "1 year",
+    "cycle": "2027/28",
+    "status": "unknown",
+    "deadline": null,
+    "deadlineNote": "Department says 2027 admissions open in October; exact opening and closing date need verification",
+    "description": "Advanced computing for applicants with a substantial computing background. The department advertises September 2027 entry; application availability is not yet verified here.",
+    "source": "https://www.imperial.ac.uk/computing/prospective-students/courses/pg/mac/"
+  },
+  {
+    "kind": "course",
+    "amount": "See official fees; confirm your Home/Overseas fee assessment",
+    "tags": [
+      "Software engineering",
+      "Flexible study",
+      "Distance learning"
+    ],
+    "verifiedAt": "2026-10-06",
+    "relatedIds": [],
+    "eligibility": {
+      "note": "Check degree equivalence, experience, English requirements and fee status with admissions."
+    },
+    "id": "ou-software",
+    "title": "MSc Computing · Software Engineering route",
+    "university": "The Open University",
+    "location": "Distance learning · UK",
+    "mode": [
+      "Part-time",
+      "Online"
+    ],
+    "duration": "Flexible modular study",
+    "cycle": "2027 module starts",
+    "status": "unknown",
+    "deadline": null,
+    "deadlineNote": "Software Development (M813) has a published 1 May 2027 start; confirm registration deadline and route availability",
+    "description": "A 180-credit computing MSc with a specialist software engineering route. Only the published 2027 module start is recorded here; enrolment and funding availability need confirmation.",
+    "source": "https://www.open.ac.uk/postgraduate/qualifications/f66/"
+  },
+  {
+    "id": "oxford-clarendon",
+    "kind": "scholarship",
+    "title": "Clarendon · automatic Oxford funding consideration",
+    "university": "University of Oxford",
+    "location": "Oxford",
+    "mode": [
+      "Full-time",
+      "Part-time"
+    ],
+    "duration": "Award duration depends on course fee liability",
+    "cycle": "2027/28",
+    "status": "open",
+    "deadline": "2027-01-06T12:00:00Z",
+    "deadlineNote": "6 January 2027, 12:00 noon UK time for the three linked courses. Other Oxford courses have their own funding deadlines.",
+    "amount": "Course fees plus living-cost grant (full-time) or study support (part-time). New-year grant amount to confirm.",
+    "description": "Consideration is automatic through a new Oxford course application by its December or January funding deadline. This entry is linked to verified 2027/28 courses; no separate scholarship form. Selection is highly competitive.",
+    "tags": [
+      "Merit-based",
+      "Automatic consideration",
+      "All nationalities"
+    ],
+    "verifiedAt": "2026-10-06",
+    "source": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/clarendon/applicants",
+    "relatedIds": [
+      "oxford-software",
+      "oxford-security",
+      "oxford-advanced"
+    ],
+    "applicationTasks": [
+      "Confirm eligibility for a new Oxford course",
+      "Choose a linked 2027/28 master’s course",
+      "Prepare the course application documents",
+      "Submit the course application by its January funding deadline",
+      "Record consideration and a scholarship follow-up date"
+    ],
+    "eligibility": {
+      "manual": true,
+      "note": "Oxford publishes no nationality or ordinary-residence restrictions for Clarendon. Admission, academic merit and departmental nomination still determine selection; deferred offers and continuing the same degree are excluded."
+    }
+  }
+]

@@ -1,0 +1,11 @@
+import { readFile, writeFile } from 'node:fs/promises';
+let html = await readFile('dist/index.html', 'utf8');
+const js = html.match(/<script[^>]+src="([^"]+)"[^>]*><\/script>/);
+const css = html.match(/<link[^>]+href="([^"]+\.css)"[^>]*>/);
+if (!js || !css) throw new Error('Expected one bundled JavaScript and CSS asset. Run npm run build first.');
+const jsBody = await readFile('dist/' + js[1].replace(/^\.\//, ''), 'utf8');
+const cssBody = await readFile('dist/' + css[1].replace(/^\.\//, ''), 'utf8');
+html = html.replace(js[0], () => '<script type="module">' + jsBody.replace(/<\/script/gi, '<\\/script') + '</script>');
+html = html.replace(css[0], () => '<style>' + cssBody + '</style>');
+await writeFile('PREVIEW.html', html);
+console.log('Created PREVIEW.html. Live monitoring requires GitHub deployment.');
